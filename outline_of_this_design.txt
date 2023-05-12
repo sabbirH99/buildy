@@ -1,0 +1,9 @@
+Signature features used in this design:
+
+1. The whole design was created with the help with a custom made grid system
+2. The toggle menu and the toggle cross was created with the help of plain css.
+3. Dropdown menu in the navbar was also created with plain css.
+4. The Big arrow in the hero section was create with plain css.
+5. The our project carousel section was created with owl-carousel
+	for simple but very responsive carousel and the other carousel
+	about testimonial was created with plain JavaScript
