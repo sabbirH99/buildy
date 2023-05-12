@@ -927,6 +927,7 @@ header .section-cta .cta {
     position: relative;
     box-shadow: 0px 10px 30px 0px #1012121A;
     margin-bottom: 1rem;
+    min-height: 15rem;
 }
 
 .news .content {
