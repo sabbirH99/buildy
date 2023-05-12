@@ -15,8 +15,6 @@ toggleBtn.addEventListener("click", function(e){
 
 
 
-
-
 // slider with owl carousel
 $('.owl-carousel').owlCarousel({
     loop:false,
