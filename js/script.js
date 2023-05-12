@@ -12,12 +12,6 @@ toggleBtn.addEventListener("click", function(e){
 });
 
 
-toggleBtn.addEventListener("click", function(e){
-    
-    if(window.screen.availWidth >= 767) {
-        alert("what?")
-    }
-});
 
 
 
